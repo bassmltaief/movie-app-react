@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactStars from "react-rating-stars-component";
 
-const Hed = ({ handleChange, handleChange1,ratingChanged }) => {
+const Hed = ({ handleChange,ratingChanged }) => {
    
     return (
         <div className="head">
